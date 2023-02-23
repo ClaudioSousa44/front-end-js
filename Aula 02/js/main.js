@@ -44,6 +44,13 @@ const adicionarCard = (nome, nota) => {
 const handClick = () => {
     const nome = prompt('Digite o nome do aluno')
     const nota = prompt('Coloque sua nota')
+
+    // const aluno = {
+    //     nome: prompt('Digite o nome do aluno'),
+    //     nota: prompt('Coloque sua nota')
+    // }
+
+
     adicionarCard(nome, nota)
 }
 
