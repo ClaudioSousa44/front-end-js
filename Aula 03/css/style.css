@@ -10,13 +10,9 @@ header{
     height: 150px;
     box-shadow: 4px 0px 8px #0006;
     font-size: 2rem;
-    background-color: #008000;
+    
 }
 
-main{
-    background-color: #00f;
-
-}
 
 .container {
     display: grid;
